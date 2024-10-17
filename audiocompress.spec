@@ -4,7 +4,7 @@ Summary:		Simple dynamic range compressor
 Name:			audiocompress
 Version:		2.0
 Release:		3
-URL:			http://beesbuzz.biz/code/audiocompress.php
+URL:			https://beesbuzz.biz/code/audiocompress.php
 Source:			http://beesbuzz.biz/code/%{name}/%{oname}-%{version}.tar.gz
 License:		LGPLv2
 Group:			Sound
